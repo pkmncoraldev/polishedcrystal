@@ -34,8 +34,8 @@ _CheckContactMove::
 	db CUT
 	db DIG
 	db DIZZY_PUNCH
-	db DOUBLE_EDGE
 	db DOUBLE_KICK
+	db DOUBLE_EDGE
 	db DOUBLE_SLAP
 	db DRAGON_CLAW
 	db DRAIN_KISS
